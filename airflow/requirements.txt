@@ -1,0 +1,9 @@
+pandas>=2.1.4
+numpy>=1.26.3
+tensorflow>=2.16.0
+scikit-learn>=1.4.0
+yfinance==0.2.48
+requests>=2.31.0
+sqlalchemy>=2.0.25
+psycopg2-binary>=2.9.9
+apache-airflow-providers-postgres>=5.10.0
