@@ -150,7 +150,3 @@ BATCH_SIZE=32                         # Batch size
 - **Multi-Day Forecasting** — Autoregressive prediction supporting 1–30 day horizons with business-day aware date generation
 - **Background Training** — Non-blocking model training via threading, with real-time progress tracking through the API and dashboard
 - **Airflow Orchestration** — Automated daily data ingestion (weekdays 6PM) and monthly model retraining with full DAG visibility
-
-## License
-
-MIT
